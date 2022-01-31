@@ -1,6 +1,6 @@
 - Hi 👋 I’m Zarifjon
 - 👀 I’m interested in Frontend-develop 
-- 🌱 I’m currently learning JavaScript and his frameworks <<React>>
+- 🌱 I’m currently learning JavaScript and his frameworks: React
 - 💞️ I’m looking to collaborate on a growing company
 - 📫 How to reach me shomakhmudovzarifjon@icloud.com
 
